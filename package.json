@@ -2,7 +2,7 @@
   "name": "react-native-qrcode-scanner-view",
   "version": "2.0.0",
   "description": "A Highly customizable QRCode Scanner component for React Native",
-  "main": "index.js",
+  "main": "lib/index.js",
   "readmeFilename": "README.md",
   "scripts": {
     "test": "make test"
@@ -15,7 +15,7 @@
     "prop-types": "^15.7.2"
   },
   "peerDependencies": {
-    "react-native-camera": "^3.3.0"
+    "react-native-camera": ">=3.3.0"
   },
   "keywords": [
     "react-native",
